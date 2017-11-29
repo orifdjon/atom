@@ -1,2 +1,2 @@
 apply plugin: 'war'
-apply plugin: 'jetty'
+
